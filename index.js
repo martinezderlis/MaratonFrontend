@@ -9,9 +9,12 @@ Exitos! Happy coding! - Guayerd
 /*
 Ej - 1: Mostrar con alert el siguiente texto... "Bievenidas/os al Maratón Guayerd"
 */
+
 let mensaje = "Bievenidas/os al Maratón Guayerd"
 console.log(mensaje)
-alert(mensaje)
+prompt(mensaje)
+
+
 /*
 Ej - 2: Completar/arreglar el código para que la función focusHandler() se ejecute cuando el foco este puesto en el input.ej2-nombre. Y cuando el foco se pierda (evento blur), borrar el contenido del div.
 */
