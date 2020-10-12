@@ -10,9 +10,16 @@ Exitos! Happy coding! - Guayerd
 Ej - 1: Mostrar con alert el siguiente texto... "Bievenidas/os al Maratón Guayerd"
 */
 
-let mensaje = "Bievenidas/os al Maratón Guayerd"
+let mensaje = "Bienvenidas/os al Maratón Guayerd"
 console.log(mensaje)
-prompt(mensaje)
+alert(mensaje)
+
+const msj1=document.querySelector("contenedor ej1")
+console.log(msj1)
+//msj1.innerHTML=  "<h2>Ejercicio 1</h2> <div>Bienvenidas/os al Maratón Guayerd</div>"
+
+
+
 
 
 /*
